@@ -4,4 +4,3 @@
 
 - 🔭 I’m currently working on JavaScript and H5 App Web development. 
 
-- 🌱 I’m currently learning and sharing on [my blog](https://github.com/Whualong/blogs-js), welcome~
